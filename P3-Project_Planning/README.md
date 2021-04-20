@@ -9,10 +9,8 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-<li><a href="/../Wireframe_Image/myGame-5_page_wireframe.jpeg">Wireframe Image</a></li>
+<li><a href="../Wireframe_Image/myGame-5_page_wireframe.jpeg">Wireframe Images</a></li>
 </ul>
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
 
