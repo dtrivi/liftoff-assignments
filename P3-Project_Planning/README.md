@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-<li><a href="../Wireframe_Image/myGame-5_page_wireframe.jpeg">Wireframe Images</a></li>
+<li><a href="P3-Project_Planning/Wireframe_Image/myGame-5_page_wireframe.jpeg">Wireframe Images</a></li>
 </ul>
 
 ### Project Tracker
